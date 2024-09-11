@@ -35,7 +35,7 @@
 
 ---
 ##  Architecture
-<img src="https://imgur.com/di6l63h" width="20%" alt="CASSIE-BOT-ARCH">
+<img src="https://i.imgur.com/di6l63h.png" width="20%" alt="CASSIE-BOT-ARCH">
 
 ##  Features
 
