@@ -5,7 +5,7 @@
     <h1 align="center">CASSIE-BOT</h1>
 </p>
 <p align="center">
-    <em><code>❯ code></em>
+    <em><code> </code>code></em>
 </p>
 <p align="center">
 	<!-- local repository, no metadata badges. --></p>
@@ -35,7 +35,7 @@
 
 ---
 ##  Architecture
-<img src="https://i.imgur.com/di6l63h.png" width="20%" alt="CASSIE-BOT-ARCH">
+<img src="https://i.imgur.com/di6l63h.png" width="80%" alt="CASSIE-BOT-ARCH">
 
 ##  Features
 
