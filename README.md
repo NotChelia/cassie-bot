@@ -37,25 +37,25 @@
 ##  Architecture
 <img src="https://i.imgur.com/di6l63h.png" width="80%" alt="CASSIE-BOT-ARCH">
 
-##  Features
+##  Discord Bot Commands
 
-<code>❯ Discord Bot Commands</code>
 This bot includes a set of commands for administrators to manage update notifications for the server
 
 toggle_updates
-Command: !toggle_updates
+Command: <code>!toggle_updates</code>
 Description: Toggles the update checking for the server.
 
-Command: !subscribe_role <role>
+Command: <code>!subscribe_role <role></code>
 Description: Subscribes a role to update notifications.
 
 unsubscribe_role
-Command: !unsubscribe_role <role>
+Command: <code>!unsubscribe_role <role></code>
 Description: Unsubscribes a role from update notifications.
 
 set_channel
-Command: !set_channel <#channel>
+Command: <code>!set_channel <channel></code>
 Description: Sets the channel where update notifications will be posted.
+
 ---
 
 ##  Repository Structure
