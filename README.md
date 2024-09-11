@@ -5,7 +5,7 @@
     <h1 align="center">CASSIE-BOT</h1>
 </p>
 <p align="center">
-    <em><code>❯ REPLACE-ME</code></em>
+    <em><code>❯ code></em>
 </p>
 <p align="center">
 	<!-- local repository, no metadata badges. --></p>
