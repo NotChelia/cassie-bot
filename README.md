@@ -5,7 +5,7 @@
     <h1 align="center">CASSIE-BOT</h1>
 </p>
 <p align="center">
-    <em><code>❯ Discord Bot</code></em>
+    <em><code>Uses [cassie-bot-scraper-lambda](https://github.com/NotChelia/cassie-bot-scraper-lambda)</code></em>
 </p>
 <p align="center">
 	<!-- local repository, no metadata badges. --></p>
